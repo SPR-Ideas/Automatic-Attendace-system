@@ -1,0 +1,9 @@
+customtkinter
+Pillow
+fastapi
+uvicorn
+pyyaml
+pandas
+pyqrcode
+netifaces
+pypng
